@@ -1,0 +1,45 @@
+/*
+Theme Name: Mark Onepage Theme
+Theme URI: https://mkpobitro.com/mark
+Author: Pobitro Mondal
+Author URI: https://mkpobitro.com
+Description: The 2013 theme for WordPress takes us back to the blog, featuring a full range of post formats, each displayed beautifully in their own unique way. Design details abound, starting with a vibrant color scheme and matching header images, beautiful typography and icons, and a flexible layout that looks great on any device, big or small.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, e-commerce, education, news, portfolio, grid-layout, one-column, two-columns, three-columns, four-columns, footer-widgets, editor-style
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+.footer .tagcloud a {
+    font-size: 14px !important;
+}
+
+.product-block img {
+    position: absolute;
+    top: 16%;
+    left: 10%;
+    max-width: 280px;
+}
+
+.product-block .img-block-txt {
+    padding-right: 0%;
+}
+
+.shop-page {
+    margin-top: 100px;
+}
+
+.shop-page .mb-1 a {
+    color: #000;
+    margin: 20px 0;
+    display: block;
+}
+
+.nav-header {
+    background: #8d76ff;
+    padding-top: 0px;
+}
